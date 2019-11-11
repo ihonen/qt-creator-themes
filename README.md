@@ -39,6 +39,10 @@
 
 ![neontetra][NEONTETRA_SCREENSHOT]
 
+## [SublimeMaterial] by [foxoman]
+
+![SublimeMaterial][SUBLIMEMATERIAL_SCREENSHOT]
+
 ## [Twilight] by [procedural]
 
 ![Twilight][TWILIGHT_SCREENSHOT]
@@ -54,12 +58,14 @@
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Monokai2]: https://github.com/bfrg/qtcreator-monokai
 [neontetra]: https://github.com/siavashserver/neontetra-theme
+[SublimeMaterial]: https://github.com/foxoman/sublimematerial
 [Twilight]: https://github.com/procedural/qtcreator_themes
 
 <!--- Author URLs -->
 [bfrg]: https://github.com/bfrg
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
+[foxoman]: https://github.com/foxoman
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
 [siavashserver]: https://github.com/siavashserver
@@ -76,4 +82,5 @@
 [MONOKAI2_SCREENSHOT]: ./img/monokai-by-bfrg.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
+[SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
