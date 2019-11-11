@@ -3,8 +3,11 @@
 ## [Darcula] by [mervick]
 ![Darcula][DARCULA_SCREENSHOT]
 
-## [Dracula] by [ergenekonyigit]
+## [Dracula](https://github.com/dracula/qtcreator) by [ergenekonyigit]
 ![Dracula][DRACULA_SCREENSHOT]
+
+## [Dracula](https://github.com/Kojoley/qss-dracula) by [Kojoley]
+![Dracula][DRACULA2_SCREENSHOT]
 
 ## [Dusk] by [procedural]
 ![Dusk][DUSK_SCREENSHOT]
@@ -62,7 +65,6 @@
 
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
-[Dracula]: https://github.com/dracula/qtcreator
 [Dusk]: https://github.com/procedural/qtcreator_themes
 [Material]: https://github.com/evelynluw/qt-creator-material-themes
 [Material-Darker]: https://github.com/evelynluw/qt-creator-material-themes
@@ -88,6 +90,7 @@
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
 [foxoman]: https://github.com/foxoman
+[Kojoley]: https://github.com/Kojoley
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
 [reinar]: https://github.com/reinar
@@ -99,6 +102,7 @@
 <!--- Screenshot URIs -->
 [DARCULA_SCREENSHOT]: ./img/darcula-by-mervick.png
 [DRACULA_SCREENSHOT]: ./img/dracula-by-ergenekonyigit.png
+[DRACULA2_SCREENSHOT]: ./img/dracula-by-kojoley.png
 [DUSK_SCREENSHOT]: ./img/dusk-by-procedural.png
 [MATERIAL_SCREENSHOT]: ./img/material-by-evelynluw.png
 [MATERIAL_DARKER_SCREENSHOT]: ./img/material-darker-by-evelynluw.png
