@@ -1,3 +1,5 @@
+
+
 # Qt Creator Color Themes
 
 ## [Darcula](https://github.com/mervick/Qt-Creator-Darcula) by [mervick]
@@ -51,6 +53,9 @@
 ## [qDarkSky](https://github.com/foxoman/qDarkSky) by [foxoman]
 ![](img/qdarksky-by-foxoman.png "qDarkSky (author: foxoman)")
 
+## [Qt Creator Material (Dark)](https://github.com/branislavmarton/Qt-Creator-Material-Theme-Dark) by [branislavmarton]
+![](img/qt-creator-material-dark-by-branislavmarton.png "Qt Creator Material (Dark) (author: branislavmarton)")
+
 ## [Solarized (dark)](https://github.com/altercation/solarized) by [altercation]
 ![](img/solarized-dark-by-altercation.png "Solarized (dark) (author: altercation)")
 
@@ -76,6 +81,7 @@
 [alexpana]: https://github.com/alexpana
 [altercation]: https://github.com/altercation
 [bfrg]: https://github.com/bfrg
+[branislavmarton]: https://github.com/branislavmarton
 [DmitrySokolov]: https://github.com/DmitrySokolov
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
