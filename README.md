@@ -1,67 +1,67 @@
 # Qt Creator Color Themes
 
 ## [Darcula](https://github.com/mervick/Qt-Creator-Darcula) by [mervick]
-![Darcula](img/darcula-by-mervick.png "Darcula")
+![](img/darcula-by-mervick.png "Darcula (author: mervick)")
 
 ## [Dracula](https://github.com/dracula/qtcreator) by [ergenekonyigit]
-![Dracula](img/dracula-by-ergenekonyigit.png "Dracula")
+![](img/dracula-by-ergenekonyigit.png "Dracula (author: )")
 
 ## [Dracula](https://github.com/Kojoley/qss-dracula) by [Kojoley]
-![Dracula](img/dracula-by-kojoley.png "Dracula")
+![](img/dracula-by-kojoley.png "Dracula (author: Kojoley)")
 
 ## [Dusk](https://github.com/procedural/qtcreator_themes) by [procedural]
-![Dusk](img/dusk-by-procedural.png "Dusk")
+![](img/dusk-by-procedural.png "Dusk (author: procedural)")
 
 ## [Material](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
-![Material](img/material-by-evelynluw.png "Material")
+![](img/material-by-evelynluw.png "Material (author: evelynluw)")
 
 ## [Material-Darker](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
-![Material-Darker](img/material-darker-by-evelynluw.png "Material-Darker")
+![](img/material-darker-by-evelynluw.png "Material-Darker (author: evelynluw)")
 
 ## [Material-Ocean](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
-![Material-Ocean](img/material-ocean-by-evelynluw.png "Material-Ocean")
+![](img/material-ocean-by-evelynluw.png "Material-Ocean (author: evelynluw)")
 
 ## [Meridian](https://github.com/TilmanGriesel/qt-creator-meridian) by [TilmanGriesel]
-![Meridian](img/meridian-by-tilmangriesel.png "Meridian")
+![](img/meridian-by-tilmangriesel.png "Meridian (author: TilmanGriesel)")
 
 ## [Monokai](https://github.com/bfrg/qtcreator-monokai) by [bfrg]
-![Monokai](img/monokai-by-bfrg.png "Monokai")
+![](img/monokai-by-bfrg.png "Monokai (author: bfrg)")
 
 ## [Monokai](https://github.com/procedural/qtcreator_themes) by [procedural]
-![Monokai](img/monokai-by-procedural.png "Monokai")
+![](img/monokai-by-procedural.png "Monokai (author: procedural)")
 
 ## [neontetra](https://github.com/siavashserver/neontetra-theme) by [siavashserver]
-![neontetra](img/neontetra-by-siavashserver.png "neontetra")
+![](img/neontetra-by-siavashserver.png "neontetra (author: siavashserver)")
 
 ## [Obscurus](https://github.com/reinar/qt-creator-obscurus) by [reinar]
-![Obscurus](img/obscurus-by-reinar.png "Obscurus")
+![](img/obscurus-by-reinar.png "Obscurus (author: reinar)")
 
 ## [Obsidian](https://github.com/DmitrySokolov/qtcreator-obsidian-theme) by [DmitrySokolov]
-![Obsidian](img/obsidian-by-dmitrysokolov.png "Obsidian")
+![](img/obsidian-by-dmitrysokolov.png "Obsidian (author: DmitrySokolov)")
 
 ## [Solarized (dark)](https://github.com/altercation/solarized) by [altercation]
-![Solarized (dark)](img/solarized-dark-by-altercation.png "Solarized (dark)")
+![](img/solarized-dark-by-altercation.png "Solarized (dark) (author: altercation)")
 
 ## [SublimeMaterial](https://github.com/foxoman/sublimematerial) by [foxoman]
-![SublimeMaterial](img/sublimematerial-by-foxoman.png "SublimeMaterial")
+![](img/sublimematerial-by-foxoman.png "SublimeMaterial (author: foxoman)")
 
 ## [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
-![Twilight](img/twilight-by-procedural.png "Twilight")
+![](img/twilight-by-procedural.png "Twilight (author: procedural)")
 
 ## [QCivic](https://github.com/foxoman/qcivic) by [foxoman]
-![QCivic](img/qcivic-by-foxoman.png "QCivic")
+![](img/qcivic-by-foxoman.png "QCivic (author: foxoman)")
 
 ## [qDarkSky](https://github.com/foxoman/qDarkSky) by [foxoman]
-![qDarkSky](img/qdarksky-by-foxoman.png qDarkSky")
+![](img/qdarksky-by-foxoman.png "qDarkSky (author: foxoman)")
 
 ## [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
-![Visual Studio](img/visual-studio-by-yhvicey.png "Visual Studio")
+![](img/visual-studio-by-yhvicey.png "Visual Studio (author: yhvicey)")
 
 ## [Wombat](https://github.com/alexpana/qt-creator-wombat-theme) by [alexpana]
-![Wombat](img/wombat-by-alexpana.png "Wombat")
+![](img/wombat-by-alexpana.png "Wombat (author: alexpana)")
 
 ## [zaz-style](https://github.com/zaizupro/qt-creator-zaz-style-theme) by [zaizupro]
-![zaz-style](img/zaz-style-by-zaizupro.png "zaz-style")
+![](img/zaz-style-by-zaizupro.png "zaz-style (author: zaizupro)")
 
 <!--- Author URLs -->
 [alexpana]: https://github.com/alexpana
