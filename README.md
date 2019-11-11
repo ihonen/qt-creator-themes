@@ -24,6 +24,9 @@
 ### [Dusk](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/dusk-by-procedural.png "Dusk (author: procedural)")
 
+### [Gulf](https://yozy.net/2011/05/a-nice-dark-color-theme-for-qtcreator) by [yozy]
+![](img/gulf-by-yozy.png "Gulf (author: yozy")
+
 ### [Ildar-dark-contrast](https://github.com/gilmanov-ildar/qtcreator-themes) by [gilmanov-ildar]
 ![](img/ildar-dark-contrast-by-gilmanov-ildar.png "Ildar-dark-contrast (author: gilmanov-ildar)")
 
@@ -105,4 +108,5 @@
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
 [yhvicey]: https://github.com/yhvicey
+[yozy]: https://yozy.net/2011/05/a-nice-dark-color-theme-for-qtcreator
 [zaizupro]: https://github.com/zaizupro
