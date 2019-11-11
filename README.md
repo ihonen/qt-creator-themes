@@ -109,6 +109,7 @@
 [iohanaan]: https://gitlab.com/iohanaan
 [Kojoley]: https://github.com/Kojoley
 [mervick]: https://github.com/mervick
+[morhetz]: https://github.com/morhetz
 [procedural]: https://github.com/procedural
 [Raincode]: https://github.com/Raincode
 [reinar]: https://github.com/reinar
