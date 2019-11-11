@@ -21,10 +21,10 @@
 ## [Meridian] by [TilmanGriesel]
 ![Meridian][MERIDIAN_SCREENSHOT]
 
-## [Monokai] by [bfrg]
+## [Monokai](https://github.com/bfrg/qtcreator-monokai) by [bfrg]
 ![Monokai2][MONOKAI2_SCREENSHOT]
 
-## [Monokai] by [procedural]
+## [Monokai](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![Monokai][MONOKAI_SCREENSHOT]
 
 ## [neontetra] by [siavashserver]
@@ -68,8 +68,6 @@
 [Material-Darker]: https://github.com/evelynluw/qt-creator-material-themes
 [Material-Ocean]: https://github.com/evelynluw/qt-creator-material-themes
 [Meridian]: https://github.com/TilmanGriesel/qt-creator-meridian
-[Monokai]: https://github.com/procedural/qtcreator_themes
-[Monokai2]: https://github.com/bfrg/qtcreator-monokai
 [neontetra]: https://github.com/siavashserver/neontetra-theme
 [Obscurus]: https://github.com/reinar/qt-creator-obscurus
 [Obsidian]: https://github.com/DmitrySokolov/qtcreator-obsidian-theme
