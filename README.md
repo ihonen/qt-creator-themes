@@ -4,7 +4,7 @@
 ![](img/darcula-by-mervick.png "Darcula (author: mervick)")
 
 ## [Dracula](https://github.com/dracula/qtcreator) by [ergenekonyigit]
-![](img/dracula-by-ergenekonyigit.png "Dracula (author: )")
+![](img/dracula-by-ergenekonyigit.png "Dracula (author: ergenekonyigit)")
 
 ## [Dracula](https://github.com/Kojoley/qss-dracula) by [Kojoley]
 ![](img/dracula-by-kojoley.png "Dracula (author: Kojoley)")
