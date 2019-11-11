@@ -59,6 +59,10 @@
 
 ![qDarkSky][QDARKSKY_SCREENSHOT]
 
+## [Visual Studio] by [yhvicey]
+
+![Visual Studio][VISUAL_STUDIO_SCREENSHOT]
+
 ## [Wombat] by [alexpana]
 
 ![Wombat][WOMBAT_SCREENSHOT]
@@ -79,6 +83,7 @@
 [Twilight]: https://github.com/procedural/qtcreator_themes
 [QCivic]: https://github.com/foxoman/qcivic
 [qDarkSky]: https://github.com/foxoman/qDarkSky
+[Visual Studio]: https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator
 [Wombat]: https://github.com/alexpana/qt-creator-wombat-theme
 
 <!--- Author URLs -->
@@ -92,6 +97,7 @@
 [procedural]: https://github.com/procedural
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
+[yhvicey]: https://github.com/yhvicey
 
 <!--- Screenshot URIs -->
 [DARCULA_SCREENSHOT]: ./img/darcula-by-mervick.png
@@ -109,4 +115,5 @@
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
 [QCIVIC_SCREENSHOT]: ./img/qcivic-by-foxoman.png
 [QDARKSKY_SCREENSHOT]: ./img/qdarksky-by-foxoman.png
+[VISUAL_STUDIO_SCREENSHOT]: ./img/visual-studio-by-yhvicey.png
 [WOMBAT_SCREENSHOT]: ./img/wombat-by-alexpana.png
