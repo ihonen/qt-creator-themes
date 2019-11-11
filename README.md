@@ -1,6 +1,6 @@
 # Qt Creator Color Themes
 
-## [Darcula] by [mervick]
+## [Darcula](https://github.com/mervick/Qt-Creator-Darcula) by [mervick]
 ![Darcula][DARCULA_SCREENSHOT]
 
 ## [Dracula](https://github.com/dracula/qtcreator) by [ergenekonyigit]
@@ -9,19 +9,19 @@
 ## [Dracula](https://github.com/Kojoley/qss-dracula) by [Kojoley]
 ![Dracula][DRACULA2_SCREENSHOT]
 
-## [Dusk] by [procedural]
+## [Dusk](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![Dusk][DUSK_SCREENSHOT]
 
-## [Material] by [evelynluw]
+## [Material](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
 ![Material][MATERIAL_SCREENSHOT]
 
-## [Material-Darker] by [evelynluw]
+## [Material-Darker](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
 ![Material-Darker][MATERIAL_DARKER_SCREENSHOT]
 
-## [Material-Ocean] by [evelynluw]
+## [Material-Ocean](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
 ![Material-Ocean][MATERIAL_OCEAN_SCREENSHOT]
 
-## [Meridian] by [TilmanGriesel]
+## [Meridian](https://github.com/TilmanGriesel/qt-creator-meridian) by [TilmanGriesel]
 ![Meridian][MERIDIAN_SCREENSHOT]
 
 ## [Monokai](https://github.com/bfrg/qtcreator-monokai) by [bfrg]
@@ -30,57 +30,38 @@
 ## [Monokai](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![Monokai][MONOKAI_SCREENSHOT]
 
-## [neontetra] by [siavashserver]
+## [neontetra](https://github.com/siavashserver/neontetra-theme) by [siavashserver]
 ![neontetra][NEONTETRA_SCREENSHOT]
 
-## [Obscurus] by [reinar]
+## [Obscurus](https://github.com/reinar/qt-creator-obscurus) by [reinar]
 ![Obscurus][OBSCURUS_SCREENSHOT]
 
-## [Obsidian] by [DmitrySokolov]
+## [Obsidian](https://github.com/DmitrySokolov/qtcreator-obsidian-theme) by [DmitrySokolov]
 ![Obsidian][OBSIDIAN_SCREENSHOT]
 
-## [Solarized (dark)] by [altercation]
+## [Solarized (dark)](https://github.com/altercation/solarized) by [altercation]
 ![Solarized (dark)][SOLARIZED_DARK_SCREENSHOT]
 
-## [SublimeMaterial] by [foxoman]
+## [SublimeMaterial](https://github.com/foxoman/sublimematerial) by [foxoman]
 ![SublimeMaterial][SUBLIMEMATERIAL_SCREENSHOT]
 
-## [Twilight] by [procedural]
+## [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![Twilight][TWILIGHT_SCREENSHOT]
 
-## [QCivic] by [foxoman]
+## [QCivic](https://github.com/foxoman/qcivic) by [foxoman]
 ![QCivic][QCIVIC_SCREENSHOT]
 
-## [qDarkSky] by [foxoman]
+## [qDarkSky](https://github.com/foxoman/qDarkSky) by [foxoman]
 ![qDarkSky][QDARKSKY_SCREENSHOT]
 
-## [Visual Studio] by [yhvicey]
+## [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
 ![Visual Studio][VISUAL_STUDIO_SCREENSHOT]
 
-## [Wombat] by [alexpana]
+## [Wombat](https://github.com/alexpana/qt-creator-wombat-theme) by [alexpana]
 ![Wombat][WOMBAT_SCREENSHOT]
 
-## [zaz-style] by [zaizupro]
+## [zaz-style](https://github.com/zaizupro/qt-creator-zaz-style-theme) by [zaizupro]
 ![zaz-style][ZAZ_STYLE_SCREENSHOT]
-
-<!--- Source URLs -->
-[Darcula]: https://github.com/mervick/Qt-Creator-Darcula
-[Dusk]: https://github.com/procedural/qtcreator_themes
-[Material]: https://github.com/evelynluw/qt-creator-material-themes
-[Material-Darker]: https://github.com/evelynluw/qt-creator-material-themes
-[Material-Ocean]: https://github.com/evelynluw/qt-creator-material-themes
-[Meridian]: https://github.com/TilmanGriesel/qt-creator-meridian
-[neontetra]: https://github.com/siavashserver/neontetra-theme
-[Obscurus]: https://github.com/reinar/qt-creator-obscurus
-[Obsidian]: https://github.com/DmitrySokolov/qtcreator-obsidian-theme
-[Solarized (dark)]: https://github.com/altercation/solarized/tree/master/qtcreator
-[SublimeMaterial]: https://github.com/foxoman/sublimematerial
-[Twilight]: https://github.com/procedural/qtcreator_themes
-[QCivic]: https://github.com/foxoman/qcivic
-[qDarkSky]: https://github.com/foxoman/qDarkSky
-[Visual Studio]: https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator
-[Wombat]: https://github.com/alexpana/qt-creator-wombat-theme
-[zaz-style]: https://github.com/zaizupro/qt-creator-zaz-style-theme
 
 <!--- Author URLs -->
 [alexpana]: https://github.com/alexpana
