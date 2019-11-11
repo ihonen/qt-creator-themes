@@ -75,6 +75,10 @@
 
 ![Wombat][WOMBAT_SCREENSHOT]
 
+## [zaz-style] by [zaizupro]
+
+![zaz-style][ZAZ_STYLE_SCREENSHOT]
+
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
 [Dracula]: https://github.com/dracula/qtcreator 
@@ -95,6 +99,7 @@
 [qDarkSky]: https://github.com/foxoman/qDarkSky
 [Visual Studio]: https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator
 [Wombat]: https://github.com/alexpana/qt-creator-wombat-theme
+[zaz-style]: https://github.com/zaizupro/qt-creator-zaz-style-theme
 
 <!--- Author URLs -->
 [alexpana]: https://github.com/alexpana
@@ -110,6 +115,7 @@
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
 [yhvicey]: https://github.com/yhvicey
+[zaizupro]: https://github.com/zaizupro
 
 <!--- Screenshot URIs -->
 [DARCULA_SCREENSHOT]: ./img/darcula-by-mervick.png
@@ -131,3 +137,4 @@
 [QDARKSKY_SCREENSHOT]: ./img/qdarksky-by-foxoman.png
 [VISUAL_STUDIO_SCREENSHOT]: ./img/visual-studio-by-yhvicey.png
 [WOMBAT_SCREENSHOT]: ./img/wombat-by-alexpana.png
+[ZAZ_STYLE_SCREENSHOT]: ./img/zaz-style-by-zaizupro.png
