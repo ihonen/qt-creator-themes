@@ -51,6 +51,10 @@
 
 ![QCivic][QCIVIC_SCREENSHOT]
 
+## [qDarkSky] by [foxoman]
+
+![qDarkSky][QDARKSKY_SCREENSHOT]
+
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
 [Dracula]: https://github.com/dracula/qtcreator 
@@ -65,6 +69,7 @@
 [SublimeMaterial]: https://github.com/foxoman/sublimematerial
 [Twilight]: https://github.com/procedural/qtcreator_themes
 [QCivic]: https://github.com/foxoman/qcivic
+[qDarkSky]: https://github.com/foxoman/qDarkSky
 
 <!--- Author URLs -->
 [bfrg]: https://github.com/bfrg
@@ -90,3 +95,4 @@
 [SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
 [QCIVIC_SCREENSHOT]: ./img/qcivic-by-foxoman.png
+[QDARKSKY_SCREENSHOT]: ./img/qdarksky-by-foxoman.png
