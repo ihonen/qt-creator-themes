@@ -55,6 +55,10 @@
 
 ![qDarkSky][QDARKSKY_SCREENSHOT]
 
+## [Wombat] by [alexpana]
+
+![Wombat][WOMBAT_SCREENSHOT]
+
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
 [Dracula]: https://github.com/dracula/qtcreator 
@@ -70,8 +74,10 @@
 [Twilight]: https://github.com/procedural/qtcreator_themes
 [QCivic]: https://github.com/foxoman/qcivic
 [qDarkSky]: https://github.com/foxoman/qDarkSky
+[Wombat]: https://github.com/alexpana/qt-creator-wombat-theme
 
 <!--- Author URLs -->
+[alexpana]: https://github.com/alexpana
 [bfrg]: https://github.com/bfrg
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
@@ -96,3 +102,4 @@
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
 [QCIVIC_SCREENSHOT]: ./img/qcivic-by-foxoman.png
 [QDARKSKY_SCREENSHOT]: ./img/qdarksky-by-foxoman.png
+[WOMBAT_SCREENSHOT]: ./img/wombat-by-alexpana.png
