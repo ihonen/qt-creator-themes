@@ -42,6 +42,9 @@
 ## [Obsidian](https://github.com/DmitrySokolov/qtcreator-obsidian-theme) by [DmitrySokolov]
 ![](img/obsidian-by-dmitrysokolov.png "Obsidian (author: DmitrySokolov)")
 
+## [One Dark](https://github.com/Raincode/QtCreator-Color-Schemes) by [Raincode]
+![](img/one-dark-by-raincode.png "One Dark (author: Raincode)")
+
 ## [QCivic](https://github.com/foxoman/qcivic) by [foxoman]
 ![](img/qcivic-by-foxoman.png "QCivic (author: foxoman)")
 
