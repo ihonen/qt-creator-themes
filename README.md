@@ -24,6 +24,9 @@
 ### [Dusk](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/dusk-by-procedural.png "Dusk (author: procedural)")
 
+### [Gruvbox - Dark](https://github.com/morhetz/gruvbox-contrib/tree/master/qtcreator) by [morhetz]
+![](img/gruvbox-dark-by-morhetz.png "Gruvbox - Dark (author: morhetz)")
+
 ### [Gulf](https://yozy.net/2011/05/a-nice-dark-color-theme-for-qtcreator) by [yozy]
 ![](img/gulf-by-yozy.png "Gulf (author: yozy")
 
