@@ -25,7 +25,7 @@
 ![Meridian](img/meridian-by-tilmangriesel.png)
 
 ## [Monokai](https://github.com/bfrg/qtcreator-monokai) by [bfrg]
-![Monokai2](img/monokai-by-bfrg.png)
+![Monokai](img/monokai-by-bfrg.png)
 
 ## [Monokai](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![Monokai](img/monokai-by-procedural.png)
