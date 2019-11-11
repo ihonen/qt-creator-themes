@@ -57,6 +57,9 @@
 ### [Obsidian](https://github.com/DmitrySokolov/qtcreator-obsidian-theme) by [DmitrySokolov]
 ![](img/obsidian-by-dmitrysokolov.png "Obsidian (author: DmitrySokolov)")
 
+### [One Dark](https://gitlab.com/iohanaan/qtcreator-onedark) by [iohanaan]
+![](img/one-dark-by-iohanaan.png "One Dark (author: iohanaan)")
+
 ### [One Dark](https://github.com/Raincode/QtCreator-Color-Schemes) by [Raincode]
 ![](img/one-dark-by-raincode.png "One Dark (author: Raincode)")
 
@@ -100,6 +103,7 @@
 [evelynluw]: https://github.com/evelynluw
 [foxoman]: https://github.com/foxoman
 [gilmanov-ildar]: https://github.com/gilmanov-ildar
+[iohanaan]: https://gitlab.com/iohanaan
 [Kojoley]: https://github.com/Kojoley
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
