@@ -1,87 +1,68 @@
 # Qt Creator Color Themes
 
 ## [Darcula] by [mervick]
-
 ![Darcula][DARCULA_SCREENSHOT]
 
 ## [Dracula] by [ergenekonyigit]
 ![Dracula][DRACULA_SCREENSHOT]
 
 ## [Dusk] by [procedural]
-
 ![Dusk][DUSK_SCREENSHOT]
 
 ## [Material] by [evelynluw]
-
 ![Material][MATERIAL_SCREENSHOT]
 
 ## [Material-Darker] by [evelynluw]
-
 ![Material-Darker][MATERIAL_DARKER_SCREENSHOT]
 
 ## [Material-Ocean] by [evelynluw]
-
 ![Material-Ocean][MATERIAL_OCEAN_SCREENSHOT]
 
 ## [Meridian] by [TilmanGriesel]
-
 ![Meridian][MERIDIAN_SCREENSHOT]
 
 ## [Monokai] by [bfrg]
-
 ![Monokai2][MONOKAI2_SCREENSHOT]
 
 ## [Monokai] by [procedural]
-
 ![Monokai][MONOKAI_SCREENSHOT]
 
 ## [neontetra] by [siavashserver]
-
 ![neontetra][NEONTETRA_SCREENSHOT]
 
 ## [Obscurus] by [reinar]
-
 ![Obscurus][OBSCURUS_SCREENSHOT]
 
 ## [Obsidian] by [DmitrySokolov]
-
 ![Obsidian][OBSIDIAN_SCREENSHOT]
 
 ## [Solarized (dark)] by [altercation]
-
 ![Solarized (dark)][SOLARIZED_DARK_SCREENSHOT]
 
 ## [SublimeMaterial] by [foxoman]
-
 ![SublimeMaterial][SUBLIMEMATERIAL_SCREENSHOT]
 
 ## [Twilight] by [procedural]
-
 ![Twilight][TWILIGHT_SCREENSHOT]
 
 ## [QCivic] by [foxoman]
-
 ![QCivic][QCIVIC_SCREENSHOT]
 
 ## [qDarkSky] by [foxoman]
-
 ![qDarkSky][QDARKSKY_SCREENSHOT]
 
 ## [Visual Studio] by [yhvicey]
-
 ![Visual Studio][VISUAL_STUDIO_SCREENSHOT]
 
 ## [Wombat] by [alexpana]
-
 ![Wombat][WOMBAT_SCREENSHOT]
 
 ## [zaz-style] by [zaizupro]
-
 ![zaz-style][ZAZ_STYLE_SCREENSHOT]
 
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
-[Dracula]: https://github.com/dracula/qtcreator 
+[Dracula]: https://github.com/dracula/qtcreator
 [Dusk]: https://github.com/procedural/qtcreator_themes
 [Material]: https://github.com/evelynluw/qt-creator-material-themes
 [Material-Darker]: https://github.com/evelynluw/qt-creator-material-themes
