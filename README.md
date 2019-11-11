@@ -11,6 +11,10 @@
 
 ![Dusk][DUSK_SCREENSHOT]
 
+## [Material] by [evelynluw]
+
+![Material][MATERIAL_SCREENSHOT]
+
 ## [Monokai] by [procedural]
 
 ![Monokai][MONOKAI_SCREENSHOT]
@@ -23,11 +27,13 @@
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
 [Dracula]: https://github.com/dracula/qtcreator 
 [Dusk]: https://github.com/procedural/qtcreator_themes
+[Material]: https://github.com/evelynluw/qt-creator-material-themes
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Twilight]: https://github.com/procedural/qtcreator_themes
 
 <!--- Author URLs -->
 [ergenekonyigit]: https://github.com/ergenekonyigit
+[evelynluw]: https://github.com/evelynluw
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
 
@@ -35,5 +41,6 @@
 [DARCULA_SCREENSHOT]: ./img/darcula-by-mervick.png
 [DRACULA_SCREENSHOT]: ./img/dracula-by-ergenekonyigit.png
 [DUSK_SCREENSHOT]: ./img/dusk-by-procedural.png
+[MATERIAL_SCREENSHOT]: ./img/material-by-evelynluw.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
