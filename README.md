@@ -39,6 +39,12 @@
 ## [Obsidian](https://github.com/DmitrySokolov/qtcreator-obsidian-theme) by [DmitrySokolov]
 ![](img/obsidian-by-dmitrysokolov.png "Obsidian (author: DmitrySokolov)")
 
+## [QCivic](https://github.com/foxoman/qcivic) by [foxoman]
+![](img/qcivic-by-foxoman.png "QCivic (author: foxoman)")
+
+## [qDarkSky](https://github.com/foxoman/qDarkSky) by [foxoman]
+![](img/qdarksky-by-foxoman.png "qDarkSky (author: foxoman)")
+
 ## [Solarized (dark)](https://github.com/altercation/solarized) by [altercation]
 ![](img/solarized-dark-by-altercation.png "Solarized (dark) (author: altercation)")
 
@@ -47,12 +53,6 @@
 
 ## [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/twilight-by-procedural.png "Twilight (author: procedural)")
-
-## [QCivic](https://github.com/foxoman/qcivic) by [foxoman]
-![](img/qcivic-by-foxoman.png "QCivic (author: foxoman)")
-
-## [qDarkSky](https://github.com/foxoman/qDarkSky) by [foxoman]
-![](img/qdarksky-by-foxoman.png "qDarkSky (author: foxoman)")
 
 ## [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
 ![](img/visual-studio-by-yhvicey.png "Visual Studio (author: yhvicey)")
