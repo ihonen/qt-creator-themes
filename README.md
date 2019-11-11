@@ -35,6 +35,10 @@
 
 ![Monokai][MONOKAI_SCREENSHOT]
 
+## [neontetra] by [siavashserver]
+
+![neontetra][NEONTETRA_SCREENSHOT]
+
 ## [Twilight] by [procedural]
 
 ![Twilight][TWILIGHT_SCREENSHOT]
@@ -49,6 +53,7 @@
 [Meridian]: https://github.com/TilmanGriesel/qt-creator-meridian
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Monokai2]: https://github.com/bfrg/qtcreator-monokai
+[neontetra]: https://github.com/siavashserver/neontetra-theme
 [Twilight]: https://github.com/procedural/qtcreator_themes
 
 <!--- Author URLs -->
@@ -57,6 +62,7 @@
 [evelynluw]: https://github.com/evelynluw
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
+[siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
 
 <!--- Screenshot URIs -->
@@ -69,4 +75,5 @@
 [MERIDIAN_SCREENSHOT]: ./img/meridian-by-tilmangriesel.png
 [MONOKAI2_SCREENSHOT]: ./img/monokai-by-bfrg.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
+[NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
