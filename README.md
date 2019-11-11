@@ -47,6 +47,10 @@
 
 ![Twilight][TWILIGHT_SCREENSHOT]
 
+## [QCivic] by [foxoman]
+
+![QCivic][QCIVIC_SCREENSHOT]
+
 <!--- Source URLs -->
 [Darcula]: https://github.com/mervick/Qt-Creator-Darcula
 [Dracula]: https://github.com/dracula/qtcreator 
@@ -60,6 +64,7 @@
 [neontetra]: https://github.com/siavashserver/neontetra-theme
 [SublimeMaterial]: https://github.com/foxoman/sublimematerial
 [Twilight]: https://github.com/procedural/qtcreator_themes
+[QCivic]: https://github.com/foxoman/qcivic
 
 <!--- Author URLs -->
 [bfrg]: https://github.com/bfrg
@@ -84,3 +89,4 @@
 [NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
 [SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
+[QCIVIC_SCREENSHOT]: ./img/qcivic-by-foxoman.png
