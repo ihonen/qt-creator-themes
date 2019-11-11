@@ -24,8 +24,8 @@
 ### [Dusk](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/dusk-by-procedural.png "Dusk (author: procedural)")
 
-### [ildar-dark-contrast](https://github.com/gilmanov-ildar/qtcreator-themes) by [gilmanov-ildar]
-![](img/ildar-dark-contrast-by-gilmanov-ildar.png "ildar-dark-contrast (author: gilmanov-ildar)")
+### [Ildar-dark-contrast](https://github.com/gilmanov-ildar/qtcreator-themes) by [gilmanov-ildar]
+![](img/ildar-dark-contrast-by-gilmanov-ildar.png "Ildar-dark-contrast (author: gilmanov-ildar)")
 
 ### [Material](https://github.com/evelynluw/qt-creator-material-themes) by [evelynluw]
 ![](img/material-by-evelynluw.png "Material (author: evelynluw)")
