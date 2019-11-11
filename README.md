@@ -23,6 +23,10 @@
 
 ![Material-Ocean][MATERIAL_OCEAN_SCREENSHOT]
 
+## [Meridian] by [TilmanGriesel]
+
+![Meridian][MERIDIAN_SCREENSHOT]
+
 ## [Monokai] by [procedural]
 
 ![Monokai][MONOKAI_SCREENSHOT]
@@ -38,6 +42,7 @@
 [Material]: https://github.com/evelynluw/qt-creator-material-themes
 [Material-Darker]: https://github.com/evelynluw/qt-creator-material-themes
 [Material-Ocean]: https://github.com/evelynluw/qt-creator-material-themes
+[Meridian]: https://github.com/TilmanGriesel/qt-creator-meridian
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Twilight]: https://github.com/procedural/qtcreator_themes
 
@@ -46,6 +51,7 @@
 [evelynluw]: https://github.com/evelynluw
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
+[TilmanGriesel]: https://github.com/TilmanGriesel
 
 <!--- Screenshot URIs -->
 [DARCULA_SCREENSHOT]: ./img/darcula-by-mervick.png
@@ -54,5 +60,6 @@
 [MATERIAL_SCREENSHOT]: ./img/material-by-evelynluw.png
 [MATERIAL_DARKER_SCREENSHOT]: ./img/material-darker-by-evelynluw.png
 [MATERIAL_OCEAN_SCREENSHOT]: ./img/material-ocean-by-evelynluw.png
+[MERIDIAN_SCREENSHOT]: ./img/meridian-by-tilmangriesel.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
