@@ -60,6 +60,9 @@
 ## [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
 ![](img/visual-studio-by-yhvicey.png "Visual Studio (author: yhvicey)")
 
+## [Visual Studio Dark](https://github.com/Raincode/QtCreator-Color-Schemes) by [Raincode]
+![](img/visual-studio-dark-by-raincode.png "Visual Studio Dark (author: Raincode)") 
+
 ## [Wombat](https://github.com/alexpana/qt-creator-wombat-theme) by [alexpana]
 ![](img/wombat-by-alexpana.png "Wombat (author: alexpana)")
 
@@ -78,6 +81,7 @@
 [Kojoley]: https://github.com/Kojoley
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
+[Raincode]: https://github.com/Raincode
 [reinar]: https://github.com/reinar
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
