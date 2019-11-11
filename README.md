@@ -39,6 +39,10 @@
 
 ![neontetra][NEONTETRA_SCREENSHOT]
 
+## [Obscurus] by [reinar]
+
+![Obscurus][OBSCURUS_SCREENSHOT]
+
 ## [Obsidian] by [DmitrySokolov]
 
 ![Obsidian][OBSIDIAN_SCREENSHOT]
@@ -82,6 +86,7 @@
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Monokai2]: https://github.com/bfrg/qtcreator-monokai
 [neontetra]: https://github.com/siavashserver/neontetra-theme
+[Obscurus]: https://github.com/reinar/qt-creator-obscurus
 [Obsidian]: https://github.com/DmitrySokolov/qtcreator-obsidian-theme
 [Solarized (dark)]: https://github.com/altercation/solarized/tree/master/qtcreator
 [SublimeMaterial]: https://github.com/foxoman/sublimematerial
@@ -101,6 +106,7 @@
 [foxoman]: https://github.com/foxoman
 [mervick]: https://github.com/mervick
 [procedural]: https://github.com/procedural
+[reinar]: https://github.com/reinar
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
 [yhvicey]: https://github.com/yhvicey
@@ -116,6 +122,7 @@
 [MONOKAI2_SCREENSHOT]: ./img/monokai-by-bfrg.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
+[OBSCURUS_SCREENSHOT]: ./img/obscurus-by-reinar.png
 [OBSIDIAN_SCREENSHOT]: ./img/obsidian-by-dmitrysokolov.png
 [SOLARIZED_DARK_SCREENSHOT]: ./img/solarized-dark-by-altercation.png
 [SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
