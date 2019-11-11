@@ -39,6 +39,10 @@
 
 ![neontetra][NEONTETRA_SCREENSHOT]
 
+## [Obsidian] by [DmitrySokolov]
+
+![Obsidian][OBSIDIAN_SCREENSHOT]
+
 ## [Solarized (dark)] by [altercation]
 
 ![Solarized (dark)][SOLARIZED_DARK_SCREENSHOT]
@@ -78,6 +82,7 @@
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Monokai2]: https://github.com/bfrg/qtcreator-monokai
 [neontetra]: https://github.com/siavashserver/neontetra-theme
+[Obsidian]: https://github.com/DmitrySokolov/qtcreator-obsidian-theme
 [Solarized (dark)]: https://github.com/altercation/solarized/tree/master/qtcreator
 [SublimeMaterial]: https://github.com/foxoman/sublimematerial
 [Twilight]: https://github.com/procedural/qtcreator_themes
@@ -90,6 +95,7 @@
 [alexpana]: https://github.com/alexpana
 [altercation]: https://github.com/altercation
 [bfrg]: https://github.com/bfrg
+[DmitrySokolov]: https://github.com/DmitrySokolov
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
 [foxoman]: https://github.com/foxoman
@@ -110,6 +116,7 @@
 [MONOKAI2_SCREENSHOT]: ./img/monokai-by-bfrg.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
+[OBSIDIAN_SCREENSHOT]: ./img/obsidian-by-dmitrysokolov.png
 [SOLARIZED_DARK_SCREENSHOT]: ./img/solarized-dark-by-altercation.png
 [SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
