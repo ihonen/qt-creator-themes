@@ -39,6 +39,10 @@
 
 ![neontetra][NEONTETRA_SCREENSHOT]
 
+## [Solarized (dark)] by [altercation]
+
+![Solarized (dark)][SOLARIZED_DARK_SCREENSHOT]
+
 ## [SublimeMaterial] by [foxoman]
 
 ![SublimeMaterial][SUBLIMEMATERIAL_SCREENSHOT]
@@ -70,6 +74,7 @@
 [Monokai]: https://github.com/procedural/qtcreator_themes
 [Monokai2]: https://github.com/bfrg/qtcreator-monokai
 [neontetra]: https://github.com/siavashserver/neontetra-theme
+[Solarized (dark)]: https://github.com/altercation/solarized/tree/master/qtcreator
 [SublimeMaterial]: https://github.com/foxoman/sublimematerial
 [Twilight]: https://github.com/procedural/qtcreator_themes
 [QCivic]: https://github.com/foxoman/qcivic
@@ -78,6 +83,7 @@
 
 <!--- Author URLs -->
 [alexpana]: https://github.com/alexpana
+[altercation]: https://github.com/altercation
 [bfrg]: https://github.com/bfrg
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
@@ -98,6 +104,7 @@
 [MONOKAI2_SCREENSHOT]: ./img/monokai-by-bfrg.png
 [MONOKAI_SCREENSHOT]: ./img/monokai-by-procedural.png
 [NEONTETRA_SCREENSHOT]: ./img/neontetra-by-siavashserver.png
+[SOLARIZED_DARK_SCREENSHOT]: ./img/solarized-dark-by-altercation.png
 [SUBLIMEMATERIAL_SCREENSHOt]: ./img/sublimematerial-by-foxoman.png
 [TWILIGHT_SCREENSHOT]: ./img/twilight-by-procedural.png
 [QCIVIC_SCREENSHOT]: ./img/qcivic-by-foxoman.png
