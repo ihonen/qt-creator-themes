@@ -96,6 +96,9 @@
 ### [Wombat](https://github.com/alexpana/qt-creator-wombat-theme) by [alexpana]
 ![](img/wombat-by-alexpana.png "Wombat (author: alexpana)")
 
+### [xSyntaxMaterial](https://github.com/xgallom/qt-creator-XSyntaxMaterial) by [xgallom]
+![](img/xsyntaxmaterial-by-xgallom.png "XSyntaxMaterial (author: xgallom)")
+
 ### [zaz-style](https://github.com/zaizupro/qt-creator-zaz-style-theme) by [zaizupro]
 ![](img/zaz-style-by-zaizupro.png "zaz-style (author: zaizupro)")
 
@@ -118,6 +121,7 @@
 [reinar]: https://github.com/reinar
 [siavashserver]: https://github.com/siavashserver
 [TilmanGriesel]: https://github.com/TilmanGriesel
+[xgallom]: https://github.com/xgallom
 [yhvicey]: https://github.com/yhvicey
 [yozy]: https://yozy.net/2011/05/a-nice-dark-color-theme-for-qtcreator
 [zaizupro]: https://github.com/zaizupro
