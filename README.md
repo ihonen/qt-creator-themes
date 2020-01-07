@@ -84,7 +84,7 @@
 ### [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/twilight-by-procedural.png "Twilight (author: procedural)")
 
-### [Visual Assist X](https://github.com/artem-ogre/visual-assist-theme-qtcreator) by [artem-ogre](https://github.com/artem-ogre)
+### [Visual Assist X](https://github.com/artem-ogre/visual-assist-theme-qtcreator) by [artem-ogre]
 ![](img/visual-assist-x-by-artem-ogre.png "Visual Assist X (author: artem-ogre)")
 
 ### [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
@@ -97,7 +97,7 @@
 ![](img/wombat-by-alexpana.png "Wombat (author: alexpana)")
 
 ### [xSyntaxMaterial](https://github.com/xgallom/qt-creator-XSyntaxMaterial) by [xgallom]
-![](img/xsyntaxmaterial-by-xgallom.png "XSyntaxMaterial (author: xgallom)")
+![](img/xsyntaxmaterial-by-xgallom.png "xSyntaxMaterial (author: xgallom)")
 
 ### [zaz-style](https://github.com/zaizupro/qt-creator-zaz-style-theme) by [zaizupro]
 ![](img/zaz-style-by-zaizupro.png "zaz-style (author: zaizupro)")
@@ -105,6 +105,7 @@
 <!--- Author URLs -->
 [alexpana]: https://github.com/alexpana
 [altercation]: https://github.com/altercation
+[artem-ogre]: https://github.com/artem-ogre
 [bfrg]: https://github.com/bfrg
 [branislavmarton]: https://github.com/branislavmarton
 [DmitrySokolov]: https://github.com/DmitrySokolov
