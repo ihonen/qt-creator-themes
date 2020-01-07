@@ -81,6 +81,9 @@
 ### [SublimeMaterial](https://github.com/foxoman/sublimematerial) by [foxoman]
 ![](img/sublimematerial-by-foxoman.png "SublimeMaterial (author: foxoman)")
 
+### [Tomorrow-Night](https://github.com/chriskempson/tomorrow-theme) by [chriskempson]
+![](img/tomorrow-night-by-chriskempson.png "Tomorrow-Night (author: chriskempson")
+
 ### [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/twilight-by-procedural.png "Twilight (author: procedural)")
 
@@ -108,6 +111,7 @@
 [artem-ogre]: https://github.com/artem-ogre
 [bfrg]: https://github.com/bfrg
 [branislavmarton]: https://github.com/branislavmarton
+[chriskempson]: https://github.com/chriskempson
 [DmitrySokolov]: https://github.com/DmitrySokolov
 [ergenekonyigit]: https://github.com/ergenekonyigit
 [evelynluw]: https://github.com/evelynluw
