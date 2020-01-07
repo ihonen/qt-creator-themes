@@ -84,6 +84,9 @@
 ### [Twilight](https://github.com/procedural/qtcreator_themes) by [procedural]
 ![](img/twilight-by-procedural.png "Twilight (author: procedural)")
 
+### [Visual Assist X](https://github.com/artem-ogre/visual-assist-theme-qtcreator) by [artem-ogre](https://github.com/artem-ogre)
+![](img/visual-assist-x-by-artem-ogre.png "Visual Assist X (author: artem-ogre)")
+
 ### [Visual Studio](https://github.com/yhvicey/Visual-Studio-2015-Dark-Theme-for-Qt-Creator) by [yhvicey]
 ![](img/visual-studio-by-yhvicey.png "Visual Studio (author: yhvicey)")
 
