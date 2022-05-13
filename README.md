@@ -5,7 +5,7 @@
 1. Download the `.xml` file containing the color scheme.
 2. 
     - On Linux/Mac OS: Copy the XML file to `~/.config/QtProject/qtcreator/styles`.
-    - On Windows: Copy the XML file to `%APPDATA%\QtProject\qtcreator\styles`.
+    - On Windows: Copy the XML file to `<Qt installation path>\Tools\QtCreator\share\qtcreator\styles`.
 3. Open Qt Creator and navigate to `Tools > Options > Text Editor > Font & Colors` and select your desired color scheme from the drop menu.
 
 **Note:** in some cases the name displayed in the drop menu doesn't match the name of the XML file. You can check the display name of the scheme by looking up the `name` variable inside the XML file.
