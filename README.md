@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ihonen)
+
 # Qt Creator - Dark color scheme collection
 
 ## How to install a custom color scheme in Qt Creator
