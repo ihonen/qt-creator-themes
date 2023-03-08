@@ -1,0 +1,18 @@
+[submodule "themes/Qt-Creator-Darcula"]
+	path = themes/Qt-Creator-Darcula
+	url = https://github.com/mervick/Qt-Creator-Darcula
+[submodule "themes/qtcreator"]
+	path = themes/qtcreator
+	url = https://github.com/dracula/qtcreator
+[submodule "themes/qt-creator-material-themes"]
+	path = themes/qt-creator-material-themes
+	url = https://github.com/evelynluw/qt-creator-material-themes
+[submodule "themes/qt-creator-meridian"]
+	path = themes/qt-creator-meridian
+	url = https://github.com/TilmanGriesel/qt-creator-meridian
+[submodule "themes/qtcreator-monokai"]
+	path = themes/qtcreator-monokai
+	url = https://github.com/bfrg/qtcreator-monokai
+[submodule "themes/qt-creator-obscurus"]
+	path = themes/qt-creator-obscurus
+	url = https://github.com/reinar/qt-creator-obscurus
